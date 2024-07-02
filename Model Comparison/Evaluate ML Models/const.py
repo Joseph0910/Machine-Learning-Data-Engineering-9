@@ -1,0 +1,6 @@
+BASE_DIR = '/Users/seth/development/bert-error-analysis/'
+CLASS_TOKEN = '<cls>'
+MASK_TOKEN = '<mask>'
+PAD_TOKEN = '<pad>'
+SEP_TOKEN = '<sep>'
+LSTM_PATH = 'https://storage.googleapis.com/allennlp-public-models/basic_stanford_sentiment_treebank-2020.06.09.tar.gz'
